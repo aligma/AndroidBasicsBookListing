@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/book_list_style">
+
+    <LinearLayout style="@style/book_style">
+
+        <TextView
+            android:id="@+id/location_offset"
+            style="@style/author_style"
+            tools:text="William Shakespeare" />
+
+        <TextView
+            android:id="@+id/primary_location"
+            style="@style/title_style"
+            tools:text="Hamlet" />
+
+    </LinearLayout>
+
+</LinearLayout>

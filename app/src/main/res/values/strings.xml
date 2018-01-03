@@ -2,7 +2,7 @@
     <string name="app_name">Book Listing</string>
 
     <string name="search_hint">Type here to search</string>
-    <string name="no_books">No books found.</string>
+    <string name="no_books">Type the title or author of a book you are interested in and click on the search button.</string>
     <string name="no_internet_connection">No internet connection.</string>
     <string name="search_button">Search</string>
 
